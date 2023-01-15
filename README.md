@@ -44,8 +44,9 @@ mongoose.connect("mongodb+srv://admin:dinesh123@cluster0.vybnrzf.mongodb.net/tod
 
 ![dbss1](https://user-images.githubusercontent.com/85272477/212528215-f98e0361-f762-487a-9795-d7d943a11cff.jpg)
 
-<h4>After Added New Item Will Added in the DB</h4>
-![dbss](https://user-images.githubusercontent.com/85272477/212527812-e4463f83-578a-44e8-a136-b4ddd358f4af.jpg)
+<h4>After Added New Item Will Added in the</h4>
+![dbss](https://user-images.githubusercontent.com/85272477/212528658-ebead2a4-7b13-448d-89d2-78397dfb37e9.jpg)
+DB
 
 <h4>After created new page it will added a seperate list in the DB</h4>
 
